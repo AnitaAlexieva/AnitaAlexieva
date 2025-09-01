@@ -1,6 +1,7 @@
 👋 Hi, I’m @AnitaAlexieva
-👀 I’m JS Lover and I am very interested in Front-End Development
-🌱 I’m currently learning ReactJS in SoftUni and I am Software Technologies and Design student in Plovdiv University
+👀 I’m passionate about **JavaScript** and everything related to **Front-End Development**. 
+🌱 I have just completed courses in **ReactJS** and **Angular** at SoftUni and I am Software Technologies and Design student in Plovdiv University
+💻 Currently, I’m building projects to sharpen my skills and explore new technologies.  
 
 📫 How to reach me : anitaalexievaa@gmail.com
 
